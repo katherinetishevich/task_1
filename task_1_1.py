@@ -11,8 +11,8 @@ print(sum)
 difference = a - b
 print(difference)
 
-composition = a * b
-print(composition)
+multiply = a * b
+print(multiply)
 
 
 #пробнички:)
